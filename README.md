@@ -1,0 +1,2 @@
+# eSigma
+Nienawidzę Vulcan 
