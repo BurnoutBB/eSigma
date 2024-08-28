@@ -1,0 +1,61 @@
+@font-face {
+    font-family: 'Garet';
+    src: url('garet.otf') format('opentype');
+}
+
+body {
+    background-color: rgb(32, 32, 32);
+    color: white;
+    font-family: 'Garet', Arial, sans-serif;
+}
+
+.buttonw {
+    float: left;
+    width: 100%;
+    margin-bottom: 5%;
+    text-align: center;
+}
+
+#title {
+    width: 100%;
+    text-align: center;
+    margin-bottom: 20%;
+    margin-top: 15%;
+}
+
+#logowanie {
+    text-align: center;
+}
+
+.buttonw input {
+    background-color: transparent;
+    color: white;
+    border: none;
+    font-size: 35px;
+    width: 250px;
+    border: 4px solid white;
+    border-radius: 10px;
+    height: 80px;
+    font-family: 'Garet', Arial, sans-serif;
+}
+
+.button2 {
+    text-align: center;
+}
+
+.button2 input {
+    background-color: transparent;
+    color: rgb(100, 100, 100);
+    border: none;
+    font-size: 30px;
+    width: 200px;
+    border: 4px solid rgb(100, 100, 100);
+    border-radius: 10px;
+    height: 60px;
+    font-family: 'Garet', Arial, sans-serif;
+}
+#datetime {
+    font-size: 24px;
+    margin-bottom: 10%;
+    text-align: center;
+}
